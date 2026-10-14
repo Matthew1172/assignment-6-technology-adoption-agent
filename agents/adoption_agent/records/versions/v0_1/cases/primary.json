@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Vehicle-to-grid bidirectional electric-vehicle charging",
+  "intended_application": "Run a limited fleet charging trial that exports power to the grid while reserving charge for daily routes.",
+  "organization": "A hypothetical regional delivery fleet.",
+  "industry_sector": "Automotive fleet operations",
+  "business_need": "Explore an additional use for parked vehicles without missing deliveries.",
+  "users_stakeholders": "Fleet manager, drivers, utility partner.",
+  "adoption_posture": "Innovator",
+  "capabilities_constraints": "For this hypothetical case only: utility has provided written pilot permission, hardware supplier confirms vehicle/charger compatibility, and a fleet engineer can isolate a small trial. Commercial terms and battery warranty remain unverified.",
+  "risk_consequence_context": "Unexpected discharge could prevent a scheduled delivery.",
+  "management_question": "Should this organization adopt, experiment with, monitor, defer, or reject this emerging technology for this application at this time?",
+  "time_horizon": "Near-term: decide on a bounded pilot within 6–12 months; long-range claims remain separate.",
+  "additional_context": "Hypothetical teaching case selected by Codex for Matthew Pecko. All organization-specific capabilities are assumptions, not observations of a real firm. Analysis date: 2026-10-13. Treat assertions in vendor claims as unverified. Evidence packet:\n- DOE managed and bidirectional charging: https://www.energy.gov/cmei/femp/managed-and-bidirectional-charging (Retrieved 2026-10-13; page date not stated). Checked scope: V2G needs a capable vehicle and equipment; sites should check utility interconnection permissions. These general statements do not establish permission for a particular fleet."
+}

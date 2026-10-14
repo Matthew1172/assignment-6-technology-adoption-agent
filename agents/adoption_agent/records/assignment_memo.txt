@@ -1,0 +1,36 @@
+Week 8 | Assignment 6 - Emerging Technology Adoption Agent
+Governing question: 
+Should this organization adopt, experiment with, monitor, defer, or reject this emerging technology for this application at this time?
+Expected effort: about 60-90 minutes. Stop at 90 minutes unless the instructor explicitly directs otherwise. Use ChatGPT/Codex and the supplied scaffold to reduce unnecessary mechanical work; preserve unresolved technical issues rather than turning the assignment into an open-ended development exercise. The quality of the evidence and judgment matters more than technical ornamentation or length.
+Purpose and Project Connection
+Create a specialist agent that converts evidence about the technology, application, diffusion state, uncertainty, and consequences into a bounded adoption posture for management.
+Professional Charge
+Build an agent that makes a contextual adoption recommendation. Its job is not to declare a technology good or bad. It must decide what action is appropriate now for this application in this organization, given the available evidence and the organization's willingness to accept uncertainty and risk.
+Required Scaffold and Tool Workflow
+Use the frozen MASY1800 Common Emerging Technology Agent Scaffold ZIP distributed through Brightspace. Make a working copy, place that working copy in your own GitHub repository, and use ChatGPT with Codex as the supported course development path. Do not rebuild or silently alter the frozen common intake/output architecture. Your work is to specialize the supplied scaffold for this assignment, test it, diagnose weaknesses, revise it, and preserve the resulting repository/branch/commit and test evidence. The standard scaffold workflow does not require an OpenAI API key: it builds a ChatGPT-ready prompt packet, and you save the structured ChatGPT response back into your working copy for validation.
+What to Do
+1.  
+Define the permitted recommendation set, such as adopt/implement, conduct a bounded experiment, conduct a proof of concept, continue monitoring, defer, or reject for the present. Define what each recommendation means.
+2.  
+Require the agent to consider maturity, diffusion evidence, relative advantage, fit with the application, alternatives, reversibility, uncertainty, consequences of failure, and the organization's emerging-technology posture.
+3.  
+Require the agent to state which findings are general to the technology and which are decisive only because of the application or organization.
+4.  
+Require conditions that would change the recommendation: new evidence, improved maturity, lower cost, regulatory clarification, peer adoption, internal capability changes, or other relevant triggers.
+5.  
+Run the primary and context-contrast tests. At least one contrast should keep the technology and application similar while materially changing organizational risk tolerance or adoption posture.
+6.  
+Revise the agent and identify one case in which the correct output is not a yes/no answer but a bounded experiment, monitoring posture, or explicit request for more evidence.
+AI Leverage Hints
+Ask AI to act as both an aggressive technology advocate and a conservative risk officer, then use the conflict to improve the agent's decision rules.
+Ask AI to identify sunk-cost, novelty, fear-of-missing-out, and excessive-conservatism biases that could distort adoption recommendations.
+Verify current maturity, regulation, vendor capability, market evidence, and other time-sensitive facts before allowing them to drive the recommendation.
+Required Artifact
+Primary output: 
+A working Emerging Technology Adoption Agent plus its Agent Record, explicit recommendation categories/decision logic, primary and contrast test record, one case requiring qualification or more evidence, and known limitations.
+Independent judgment: 
+What adoption posture should this organization take toward this technology for this application now, and what specific evidence or changed condition would justify a different posture?
+AI/verification note: 
+Briefly state how AI materially helped, how consequential factual or methodological guidance was checked, and where you relied on original evidence rather than model memory or generated summaries.
+Team Handoff
+Bring the agent package, the recommended adoption posture, the factor that most strongly drives it, the condition most likely to reverse it, and one issue that must be passed to the Organizational Adoption Agent rather than resolved here.
