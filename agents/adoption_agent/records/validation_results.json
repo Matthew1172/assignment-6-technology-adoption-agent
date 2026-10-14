@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-13",
+  "timezone": "America/New_York",
+  "cases_checked": 5,
+  "api_runs": 7,
+  "frozen_core": "FROZEN CORE INTACT",
+  "copied_helper_byte_identical": true,
+  "secret_scan": "No matching key material found in publishable text files",
+  "responses": [
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_ambiguous_prompt_response_2026-10-13_20-59-54_495396-0400.json",
+      "sha256": "dc9b7018ee54ca3b74a03d916c430446feafb75af7f1a0647443d1fb3d4d5559",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_contrast_1_prompt_response_2026-10-13_20-56-58_694200-0400.json",
+      "sha256": "fcc899f4ea45552e3f67a8c020ffc47edc6cce6f60dad388947502a57de539f6",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_contrast_1_prompt_response_2026-10-13_20-59-52_661162-0400.json",
+      "sha256": "004f9479b3317b120eb7687feb3460d65f722555b56f8bcb36949e332b5b902f",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_contrast_2_prompt_response_2026-10-13_20-59-53_445009-0400.json",
+      "sha256": "7cbf269676dee64ccbc7b84debdd3aae7a3bf9f1bda4c7e3d5419ebf49085112",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_primary_prompt_response_2026-10-13_20-56-57_109233-0400.json",
+      "sha256": "4bfbb8d04b4bae154887af131fc394b4817bd9115fa394d80453282e1f35e177",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_primary_prompt_response_2026-10-13_20-59-52_396422-0400.json",
+      "sha256": "184b2e305a79af1e31f881ae11363c39067ed7212628768f5d593100fd598a57",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/adoption_agent_ready_trial_prompt_response_2026-10-13_21-01-18_280286-0400.json",
+      "sha256": "553ac133f865bbd11dbc810a68df0657c556eeddc2dc42bae9acb6cc5dfaee65",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/ambiguous_response.json",
+      "sha256": "dc9b7018ee54ca3b74a03d916c430446feafb75af7f1a0647443d1fb3d4d5559",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/contrast_1_response.json",
+      "sha256": "004f9479b3317b120eb7687feb3460d65f722555b56f8bcb36949e332b5b902f",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/contrast_2_response.json",
+      "sha256": "7cbf269676dee64ccbc7b84debdd3aae7a3bf9f1bda4c7e3d5419ebf49085112",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/primary_response.json",
+      "sha256": "184b2e305a79af1e31f881ae11363c39067ed7212628768f5d593100fd598a57",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/ready_trial_response.json",
+      "sha256": "553ac133f865bbd11dbc810a68df0657c556eeddc2dc42bae9acb6cc5dfaee65",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_1/contrast_1_response.json",
+      "sha256": "fcc899f4ea45552e3f67a8c020ffc47edc6cce6f60dad388947502a57de539f6",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_1/primary_response.json",
+      "sha256": "4bfbb8d04b4bae154887af131fc394b4817bd9115fa394d80453282e1f35e177",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_2/ambiguous_response.json",
+      "sha256": "dc9b7018ee54ca3b74a03d916c430446feafb75af7f1a0647443d1fb3d4d5559",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_2/contrast_1_response.json",
+      "sha256": "004f9479b3317b120eb7687feb3460d65f722555b56f8bcb36949e332b5b902f",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_2/contrast_2_response.json",
+      "sha256": "7cbf269676dee64ccbc7b84debdd3aae7a3bf9f1bda4c7e3d5419ebf49085112",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_2/primary_response.json",
+      "sha256": "184b2e305a79af1e31f881ae11363c39067ed7212628768f5d593100fd598a57",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/adoption_agent/responses/v0_2/ready_trial_response.json",
+      "sha256": "553ac133f865bbd11dbc810a68df0657c556eeddc2dc42bae9acb6cc5dfaee65",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    }
+  ]
+}
