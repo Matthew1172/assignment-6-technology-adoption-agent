@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Robotic 3D concrete printing of residential wall systems",
+  "intended_application": "Use robotic printing for exterior walls in one low-rise housing design.",
+  "organization": "A hypothetical regional architecture practice.",
+  "industry_sector": "Architecture and residential construction",
+  "business_need": "Learn whether this construction method deserves near-term design attention.",
+  "users_stakeholders": "Architects, builders, residents, inspectors.",
+  "adoption_posture": "Innovator",
+  "capabilities_constraints": "Has a printing contractor contact and project-design expertise; local permitting and contractor availability unverified.",
+  "risk_consequence_context": "A failed wall project could delay occupancy.",
+  "management_question": "How far has this technology and application diffused, what is accelerating or inhibiting diffusion, and what does that stage imply for this organization?",
+  "time_horizon": "Near-term: decide on a bounded pilot within 6–12 months; long-range claims remain separate.",
+  "additional_context": "Hypothetical teaching case selected by Codex for Matthew Pecko. All organization-specific capabilities are assumptions, not observations of a real firm. Analysis date: 2026-10-13. Treat assertions in vendor claims as unverified. Evidence packet:\n- HUD 3DCP construction practices report: https://www.huduser.gov/PORTAL/publications/3D-Concrete-Printed-Construction-Systems-Part-2-An-Overview-of-3DCP-Construction-Practices-Technical-Findings-Final-Report.html (Accepted October 2023; posted 2024-08-16; retrieved 2026-10-13). Checked scope: Report studies wall systems and uses builder interviews, site visits, and a survey of 305 builders. The landing page supplies no national adoption percentage."
+}
